@@ -7,6 +7,7 @@
       IG - @mattoliv04
       Gmail - matt04.oliv@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red)
 
 <picture>
   <source
@@ -19,3 +20,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+
