@@ -8,6 +8,7 @@
       Gmail - matt04.oliv@gmail.com
 
 
+
 <div>
   <a href="">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt04-oliv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
@@ -16,11 +17,8 @@
 </div>
 
 
-<div>
-  <a href="">
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
-          
