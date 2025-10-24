@@ -8,4 +8,9 @@
       Gmail - matt04.oliv@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
+<div>
+  <a href="">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt04-oliv&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt04-oliv&layout=compact&langs_count=16&theme=gotham" />
+  </a>
+</div>
